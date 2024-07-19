@@ -1,3 +1,12 @@
+## Credits
+
+This project is based on the tutorial by PedroTech, where they demonstrate how to build a React Firebase project.
+
+Learning how to use Firebase for backend and deployment was a bit challenging, with the help of this tutorial I was able to create and successfully deploy the web application.
+
+Original Tutorial:
+- https://www.youtube.com/watch?v=_ycD0d7skdQ
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
